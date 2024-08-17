@@ -1,11 +1,13 @@
 # ControleDeMicropropriedades
 Sistema Web para gerenciamento de Micro propriedades rurais.
-##1. Objetivos do Sistema
-Gerenciamento Financeiro: Facilitar o controle financeiro de micropropriedades, permitindo o registro e a análise de despesas e receitas, bem como a geração de relatórios financeiros essenciais, como balancetes e declarações de faturamento.
-Controle de Estoque: Proporcionar um controle preciso de estoque, com a capacidade de categorização e acompanhamento de entradas e saídas, ajudando na gestão eficiente dos recursos.
-Escalabilidade e Flexibilidade: Desenvolver um sistema escalável e flexível, capaz de crescer conforme o aumento do número de propriedades ou usuários, mantendo um desempenho eficiente.
-Facilidade de Uso: Garantir que o sistema seja intuitivo e fácil de usar, mesmo para usuários com pouca experiência em tecnologia.
-##2. Principais Funcionalidades
+
+#1. Objetivos do Sistema
+*Gerenciamento Financeiro: Facilitar o controle financeiro de micropropriedades, permitindo o registro e a análise de despesas e receitas, bem como a geração de *relatórios financeiros essenciais, como balancetes e declarações de faturamento.
+*Controle de Estoque: Proporcionar um controle preciso de estoque, com a capacidade de categorização e acompanhamento de entradas e saídas, ajudando na gestão eficiente dos recursos.
+*Escalabilidade e Flexibilidade: Desenvolver um sistema escalável e flexível, capaz de crescer conforme o aumento do número de propriedades ou usuários, mantendo um desempenho eficiente.
+*Facilidade de Uso: Garantir que o sistema seja intuitivo e fácil de usar, mesmo para usuários com pouca experiência em tecnologia.
+
+#2. Principais Funcionalidades
 Cadastro e Gerenciamento de Propriedades:
 
 ###Cadastro de micropropriedades com informações detalhadas (localização, tamanho, tipo de cultivo/produção).
