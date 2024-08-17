@@ -1,0 +1,193 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/fernandorsoul/Área de trabalho/Projects/dotnet/ChacaraFernando/MicroPropertiesManagement.Tests/MicroPropertiesManagement.Tests.csproj": {}
+  },
+  "projects": {
+    "/home/fernandorsoul/Área de trabalho/Projects/dotnet/ChacaraFernando/MicroPropertiesManagement.Application/MicroPropertiesManagement.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/fernandorsoul/Área de trabalho/Projects/dotnet/ChacaraFernando/MicroPropertiesManagement.Application/MicroPropertiesManagement.Application.csproj",
+        "projectName": "MicroPropertiesManagement.Application",
+        "projectPath": "/home/fernandorsoul/Área de trabalho/Projects/dotnet/ChacaraFernando/MicroPropertiesManagement.Application/MicroPropertiesManagement.Application.csproj",
+        "packagesPath": "/home/fernandorsoul/.nuget/packages/",
+        "outputPath": "/home/fernandorsoul/Área de trabalho/Projects/dotnet/ChacaraFernando/MicroPropertiesManagement.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/fernandorsoul/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/fernandorsoul/Área de trabalho/Projects/dotnet/ChacaraFernando/MicroPropertiesManagement.Core/MicroPropertiesManagement.Core.csproj": {
+                "projectPath": "/home/fernandorsoul/Área de trabalho/Projects/dotnet/ChacaraFernando/MicroPropertiesManagement.Core/MicroPropertiesManagement.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.132/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/fernandorsoul/Área de trabalho/Projects/dotnet/ChacaraFernando/MicroPropertiesManagement.Core/MicroPropertiesManagement.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/fernandorsoul/Área de trabalho/Projects/dotnet/ChacaraFernando/MicroPropertiesManagement.Core/MicroPropertiesManagement.Core.csproj",
+        "projectName": "MicroPropertiesManagement.Core",
+        "projectPath": "/home/fernandorsoul/Área de trabalho/Projects/dotnet/ChacaraFernando/MicroPropertiesManagement.Core/MicroPropertiesManagement.Core.csproj",
+        "packagesPath": "/home/fernandorsoul/.nuget/packages/",
+        "outputPath": "/home/fernandorsoul/Área de trabalho/Projects/dotnet/ChacaraFernando/MicroPropertiesManagement.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/fernandorsoul/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.132/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/fernandorsoul/Área de trabalho/Projects/dotnet/ChacaraFernando/MicroPropertiesManagement.Tests/MicroPropertiesManagement.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/fernandorsoul/Área de trabalho/Projects/dotnet/ChacaraFernando/MicroPropertiesManagement.Tests/MicroPropertiesManagement.Tests.csproj",
+        "projectName": "MicroPropertiesManagement.Tests",
+        "projectPath": "/home/fernandorsoul/Área de trabalho/Projects/dotnet/ChacaraFernando/MicroPropertiesManagement.Tests/MicroPropertiesManagement.Tests.csproj",
+        "packagesPath": "/home/fernandorsoul/.nuget/packages/",
+        "outputPath": "/home/fernandorsoul/Área de trabalho/Projects/dotnet/ChacaraFernando/MicroPropertiesManagement.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/fernandorsoul/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/fernandorsoul/Área de trabalho/Projects/dotnet/ChacaraFernando/MicroPropertiesManagement.Application/MicroPropertiesManagement.Application.csproj": {
+                "projectPath": "/home/fernandorsoul/Área de trabalho/Projects/dotnet/ChacaraFernando/MicroPropertiesManagement.Application/MicroPropertiesManagement.Application.csproj"
+              },
+              "/home/fernandorsoul/Área de trabalho/Projects/dotnet/ChacaraFernando/MicroPropertiesManagement.Core/MicroPropertiesManagement.Core.csproj": {
+                "projectPath": "/home/fernandorsoul/Área de trabalho/Projects/dotnet/ChacaraFernando/MicroPropertiesManagement.Core/MicroPropertiesManagement.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.132/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
